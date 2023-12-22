@@ -3,3 +3,4 @@ Gitの練習ぽ
 再・基本的なフレームワークを学びます。
 ・git add
 ・git commit
+/git remove
