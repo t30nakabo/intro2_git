@@ -4,3 +4,4 @@ Git‚Ì—ûK‚Û
 Egit add
 Egit commit
 /git remove
+/git status
